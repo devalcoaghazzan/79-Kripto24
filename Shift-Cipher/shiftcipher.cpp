@@ -1,5 +1,5 @@
 /*
-    Nama        : Devalco Aghazzan Muslioni
+    Nama        : Devalco Aghazzan Muslion
     NPM         : 140810220079
     Kelas       : A
     Program     : Shift Cipher
